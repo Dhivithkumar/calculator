@@ -8,7 +8,7 @@ class maths{
         System.out.println("Sum: " + (a + b));
         System.out.println("Difference: " + (a - b));
         System.out.println("Product: " + (a * b));
-        
+        sc.close();
        
     }
 }
